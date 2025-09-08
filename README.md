@@ -201,7 +201,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Proteus layout:
 
- <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/85cce2d0-f43e-4e89-8c72-eb0dc7977b68" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/9290ba93-9f73-4a6f-bb43-52da809dbc94" />
+
 
  
  
